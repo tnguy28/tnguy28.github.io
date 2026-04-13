@@ -17,12 +17,6 @@
 </tr>
 </table>
 </html>
-<header>
-  <nav>
-    <ul class="menu">
-      <li><a href="index.html">Home</a></li>
-       <li><a href="ethics.html">Ethics</a></li>
-       <li><a href="about.html">About</a></li>
-    </ul>
-  </nav>
-</header>
+
+
+
