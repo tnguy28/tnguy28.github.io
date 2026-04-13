@@ -62,4 +62,28 @@ header {
   background-color: #e6f0ff;
 }
 
+.info-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.info-table th, .info-table td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
+
+.info-table th {
+  background-color: #003366;
+  color: white;
+}
+
+.info-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.info-table tr:hover {
+  background-color: #e6f0ff;
+}
 
