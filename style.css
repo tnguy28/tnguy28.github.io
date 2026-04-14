@@ -1,12 +1,12 @@
-body{ 
- font-family: Arial, sans-serif;
- margin: 0;
- padding: 0;
- background: #f4f4f4;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
 }
 
 header {
-  background:#003366;
+  background: #003366;
   padding: 15px 0;
 }
 
@@ -20,7 +20,7 @@ header {
 }
 
 .nav a {
-  color:white;
+  color: white;
   text-decoration: none;
   font-weight: bold;
 }
@@ -31,7 +31,7 @@ header {
 
 .container {
   width: 80%;
-  margin: 40 px auto;
+  margin: 40px auto;
   background: white;
   padding: 25px;
   border-radius: 8px;
@@ -39,7 +39,7 @@ header {
 
 .info-table {
   width: 100%;
-  border-collaspe: collapse;
+  border-collapse: collapse;
   margin-top: 20px;
 }
 
@@ -58,7 +58,7 @@ header {
   background-color: #f2f2f2;
 }
 
-.info-table tr:hover) {
+.info-table tr:hover {
   background-color: #e6f0ff;
 }
 
@@ -86,4 +86,3 @@ header {
 .info-table tr:hover {
   background-color: #e6f0ff;
 }
-  
