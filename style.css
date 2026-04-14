@@ -83,6 +83,17 @@ header {
   background-color: #f2f2f2;
 }
 
+.center-text {
+    text-align: center;
+}
+
+.page-content {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+
+
 .info-table tr:hover {
   background-color: #e6f0ff;
 }
